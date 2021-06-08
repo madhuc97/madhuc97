@@ -35,9 +35,9 @@ Website: https://madhuc97.github.io/portfolio
 -🎀 Testing and delivering complex back-end and web applications using variety programming technologies. <br>
 -⚡ To secure a challenging position where I can effectively contribute my skills as software professional. <br><br> -->
 
-⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications
+⚡ A passionate Full Stack Software Developer 🚀 having an experience of designing and building Web and Mobile applications.
 
-⚡ Create amazing business websites for your business and brands to connect as well as engage with people.
+⚡ Develop highly interactive Front end / User Interfaces for web and mobile applications
 
 ⚡ Expertise in building E-commerce Web and Android Application
 
