@@ -1,6 +1,6 @@
-### Hi there 👋
+<!--### Hi there 👋
 
-<!--
+
 **madhuc97/madhuc97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -23,8 +23,7 @@ Here are some ideas to get you started:
 
  
 
-
-[![Website](hhttps://madhuc97.github.io/portfolio/)
+(https://madhuc97.github.io/portfolio/)
  
 
 
