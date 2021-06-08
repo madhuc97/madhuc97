@@ -43,14 +43,14 @@ Website: https://madhuc97.github.io/portfolio
 
  
 
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/firetechie/count.svg" />
-</p><br>
+</p><br> -->
 
  
 
-![Madhu's github stats](https://github-readme-stats.vercel.app/api?username=madhuc97&show_icons=true&theme=vision-friendly-dark)<br>
+![Madhu's github stats](https://github-readme-stats.vercel.app/api?username=Madhu&show_icons=true&theme=vision-friendly-dark)<br>
 
  
 
