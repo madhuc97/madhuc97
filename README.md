@@ -78,8 +78,8 @@ Website: https://madhuc97.github.io/portfolio
 ![Php](https://img.shields.io/badge/-Php-000000?style=flat&logo=php&logoColor=white&labelColor=blueviolet) 
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)<br>
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![Angular](https://img.shields.io/badge/-angular-000000?style=flat&logo=angular&logoColor=000000&labelColor=ffffff)
-![Android](https://img.shields.io/badge/-android-000000?style=flat&logo=android&labelColor=007ACC)
+<!-- ![Angular](https://img.shields.io/badge/-angular-000000?style=flat&logo=angular&logoColor=000000&labelColor=ffffff)
+![Android](https://img.shields.io/badge/-android-000000?style=flat&logo=android&labelColor=007ACC) -->
 
  
 
