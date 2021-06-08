@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
  
 
-(https://madhuc97.github.io/portfolio/)
+Website: https://madhuc97.github.io/portfolio
  
 
 
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
  
 
-![Vishwanath's github stats](https://github-readme-stats.vercel.app/api?username=firetechie&show_icons=true&theme=vision-friendly-dark)<br>
+![Madhu's github stats](https://github-readme-stats.vercel.app/api?username=firetechie&show_icons=true&theme=vision-friendly-dark)<br>
 
  
 
@@ -58,10 +58,9 @@ Here are some ideas to get you started:
 
  
 
-<a href="https://linkedin.com/in/firetechie" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="firetechie" height="20" width="20" /></a>
-<a href="https://instagram.com/mr.karunadu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr.karunadu" height="20" width="20" /></a>
-<a href="https://www.facebook.com/firetechie" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="firetechie" height="20" width="20" /></a>
-<a href="https://www.twitter.com/firetechie" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="firetechie" height="20" width="20" /></a><br/>
+<a href="https://www.linkedin.com/in/madhu-c-5307b9149" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="firetechie" height="20" width="20" /></a>
+<a href="https://instagram.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr.karunadu" height="20" width="20" /></a>
+<a href="https://www.twitter.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="firetechie" height="20" width="20" /></a><br/>
 
  
 
@@ -69,17 +68,18 @@ Here are some ideas to get you started:
 
  
 
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![ReactJs](https://img.shields.io/badge/-react-000000?style=flat&logo=java&logoColor=red&labelColor=white) 
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=red&labelColor=white) 
+![Php](https://img.shields.io/badge/-Php-000000?style=flat&logo=php&logoColor=white&labelColor=blueviolet) 
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)<br>
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=red&labelColor=white) 
-![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![Php](https://img.shields.io/badge/-Php-000000?style=flat&logo=php&logoColor=white&labelColor=blueviolet) 
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)<br>
 
  
 
