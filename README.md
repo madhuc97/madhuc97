@@ -31,9 +31,15 @@ Here are some ideas to get you started:
 
  
 
--💻 Detailed-oriented, responsible and committed engineer. <br>
+<!-- -💻 Detailed-oriented, responsible and committed engineer. <br>
 -🎀 Testing and delivering complex back-end and web applications using variety programming technologies. <br>
--⚡ To secure a challenging position where I can effectively contribute my skills as software professional. <br><br>
+-⚡ To secure a challenging position where I can effectively contribute my skills as software professional. <br><br> -->
+
+⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications
+
+⚡ Create amazing business websites for your business and brands to connect as well as engage with people.
+
+⚡ Expertise in building E-commerce Web and Android Application
 
  
 
