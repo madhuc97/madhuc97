@@ -19,17 +19,12 @@ Here are some ideas to get you started:
 
  
 
-[![Gmail Badge](https://img.shields.io/badge/-vishwahegde27@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishwahegde27@gmail.com)](mailto:vishwahegde27@gmail.com)<br>
+[![Gmail Badge](https://img.shields.io/badge/-mc932099@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishwahegde27@gmail.com)](mailto:vishwahegde27@gmail.com)<br>
 
  
 
 
-[![Website](https://firetechie.ml/wp-content/uploads/2021/05/Logo.png)](https://firetechie.ml)
-
- 
-
-[![Website](https://visme.co/blog/wp-content/uploads/powerpoint-animation-how-to-add-animation-to-powerpoint.gif)](https://firetechie.ml)
-
+[![Website](hhttps://madhuc97.github.io/portfolio/)
  
 
 
