@@ -50,7 +50,7 @@ Website: https://madhuc97.github.io/portfolio
 
  
 
-![Madhu's github stats](https://github-readme-stats.vercel.app/api?username=Madhu&show_icons=true&theme=vision-friendly-dark)<br>
+![Madhu's github stats](https://github-readme-stats.vercel.app/api?username=madhu&show_icons=true&theme=vision-friendly-dark)<br>
 
  
 
