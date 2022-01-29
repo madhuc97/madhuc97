@@ -33,7 +33,7 @@ Website: https://madhuc97.github.io/portfolio
 
 <!-- -💻 Detailed-oriented, responsible and committed engineer. <br>
 -🎀 Testing and delivering complex back-end and web applications using variety programming technologies. <br>
--⚡ To secure a challenging position where I can effectively contribute my skills as software professional. <br><br> -->
+-⚡ To secure a challenging position where I can effectively contribute my skills as software professional. <br><br>
 
 ⚡ A passionate Full Stack Software Developer 🚀 having an experience of designing and building Web and Mobile applications.
 
@@ -73,13 +73,13 @@ Website: https://madhuc97.github.io/portfolio
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Angular](https://img.shields.io/badge/-angular-000000?style=flat&logo=angular&logoColor=000000&labelColor=ffffff)
 ![ReactJs](https://img.shields.io/badge/-react-000000?style=flat&logo=react&logoColor=red&labelColor=white) 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=red&labelColor=white) 
 ![Php](https://img.shields.io/badge/-Php-000000?style=flat&logo=php&logoColor=white&labelColor=blueviolet) 
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)<br>
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![Angular](https://img.shields.io/badge/-angular-000000?style=flat&logo=angular&logoColor=000000&labelColor=ffffff)
-![Android](https://img.shields.io/badge/-android-000000?style=flat&logo=android&labelColor=007ACC) -->
+![Android](https://img.shields.io/badge/-android-000000?style=flat&logo=android&labelColor=007ACC)
 
  
 
