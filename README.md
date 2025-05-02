@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
  
 
-[![Gmail Badge](https://img.shields.io/badge/-mc932099@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishwahegde27@gmail.com)](mailto:vishwahegde27@gmail.com)<br>
+[![Gmail Badge](https://img.shields.io/badge/-mc932099@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mc932099@gmail.com)](mailto:mc932099@gmail.com)<br>
 
  
 
