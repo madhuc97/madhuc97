@@ -75,8 +75,8 @@ Website: https://madhuc97.github.io/portfolio
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Angular](https://img.shields.io/badge/-angular-000000?style=flat&logo=angular&logoColor=000000&labelColor=ffffff)
 ![ReactJs](https://img.shields.io/badge/-react-000000?style=flat&logo=react&logoColor=red&labelColor=white) 
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=red&labelColor=white) 
-![Php](https://img.shields.io/badge/-Php-000000?style=flat&logo=php&logoColor=white&labelColor=blueviolet) 
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=red&labelColor=white)
+![SQL](https://img.shields.io/badge/-sql-000000?style=flat&logo=java&logoColor=blue&labelColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)<br>
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
 ![Android](https://img.shields.io/badge/-android-000000?style=flat&logo=android&labelColor=007ACC)
