@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there, This is Madhu C 👋<br>
 
- 
+ ⚡ A passionate Full Stack Software Developer 🚀 having an experience of designing and building Web applications, Mobile applications and Microservices.
 
 [![Gmail Badge](https://img.shields.io/badge/-mc932099@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mc932099@gmail.com)](mailto:mc932099@gmail.com)<br>
 
@@ -29,7 +29,6 @@ Website: https://madhuc97.github.io/portfolio
 
 ## Glad to see you here 🤩!!
 
- 
 
 <!-- -💻 Detailed-oriented, responsible and committed engineer. <br>
 -🎀 Testing and delivering complex back-end and web applications using variety programming technologies. <br>
@@ -59,8 +58,7 @@ Website: https://madhuc97.github.io/portfolio
  
 
 <a href="https://www.linkedin.com/in/madhu-c-5307b9149" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="firetechie" height="20" width="20" /></a>
-<a href="https://instagram.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mr.karunadu" height="20" width="20" /></a>
-<a href="https://www.twitter.com/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="firetechie" height="20" width="20" /></a><br/>
+<a href="https://youtube.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="youtube" height="20" width="20" /></a>
 
  
 
