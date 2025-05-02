@@ -73,15 +73,14 @@ Website: https://madhuc97.github.io/portfolio
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Angular](https://img.shields.io/badge/-angular-000000?style=flat&logo=angular&logoColor=000000&labelColor=ffffff)
-![ReactJs](https://img.shields.io/badge/-react-000000?style=flat&logo=react&logoColor=red&labelColor=white) 
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java&logoColor=red&labelColor=white)
-![SQL](https://img.shields.io/badge/-sql-000000?style=flat&logo=java&logoColor=blue&labelColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)<br>
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![Android](https://img.shields.io/badge/-android-000000?style=flat&logo=android&labelColor=007ACC)
+![Angular](https://img.shields.io/badge/-Angular-000000?style=flat&logo=angular&logoColor=ffffff&labelColor=DD0031)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-000000?style=flat&logo=springboot&logoColor=white&labelColor=6DB33F)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql&logoColor=336791)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 
- 
 
 🤓 **Interested:** <br>
 
